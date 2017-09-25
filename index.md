@@ -6,7 +6,7 @@ Meet local Kotlin developers, novices and experts alike, and discuss the languag
 
 #### [2017-08-23 - Coroutines](https://www.meetup.com/Brisbane-Kotlin-User-Group/events/242391881/)
 
-After a few months break, we got back into the swing of things with an intro to Kotlin and a roundup of all of the exciting Kotlin updates since our last meetup.
+After a few months break, we got back into the swing of things with an intro to coroutines and a roundup of all of the exciting Kotlin updates since our last meetup.
 
 * Kotlin Update - Ryan Murfitt ([slides](/meetups/2017-08-23/2017-08-23-Kotlin-Update.pdf))
 
