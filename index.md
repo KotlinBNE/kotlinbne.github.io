@@ -4,6 +4,16 @@ Meet local Kotlin developers, novices and experts alike, and discuss the languag
 
 ### Past Meetups
 
+#### [2017-12-13 - December Meetup](https://www.meetup.com/Brisbane-Kotlin-User-Group/events/245712227/)
+
+Our last meetup for 2017 before the xmas break. Two really great live-coding demos of KotlinJS and Ktor!
+
+* KotlinConf + Kotlin Update - James Bassett ([slides](/meetups/2017-12-13/2017-12-13-KotlinConf_KotlinUpdate.pdf))
+
+* KotlinJS + React - Jerry Mooyman
+
+* Ktor - Ryan Murfitt ([slides](/meetups/2017-12-13/2017-12-13-Ktor.pdf), [code](https://github.com/puug/ktor-basic))
+
 #### [2017-08-23 - Coroutines](https://www.meetup.com/Brisbane-Kotlin-User-Group/events/242391881/)
 
 After a few months break, we got back into the swing of things with an intro to coroutines and a roundup of all of the exciting Kotlin updates since our last meetup.
